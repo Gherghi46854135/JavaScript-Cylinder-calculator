@@ -1,0 +1,25 @@
+body{
+    background-color: rgba(155, 137, 36, 0.473);
+}
+#section{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    margin: auto;
+    width: 20%;
+    height: 360px;
+    padding: 10px;
+    text-align: center;
+    background-color: burlywood;
+
+}
+#button{ 
+    margin-top: 50px;
+}
+
+#header {
+    font-size: larger;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
