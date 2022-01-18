@@ -4,6 +4,6 @@ function calculate() {
   
     let z = Math.PI * y * y * x;
   
-    document.getElementById("result").innerHTML = alert("Answer = " + z);
+    alert("Answer = " + z);
 
 }
